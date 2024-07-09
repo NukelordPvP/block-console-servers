@@ -1,0 +1,10 @@
+adproxy.ndmdhs.com # Ticker ads in the XMB clockbar
+at.atwola.com
+mercury.dl.playstation.net # What's New
+nsx-e.np.dl.playstation.net # Ads
+nsx.np.dl.playstation.net # PlayStation Store Preview, incl. 'My Channels' logos
+nw-umwatson.events.data.microsoft.com
+rad.msn.com # Removes sponsored info slots in the Xbox system menu, Note that this also blocks Perks from Xbox Game Pass if you are subscribed to that
+telemetry-cii.api.playstation.com
+telemetry-console.api.playstation.com
+watson.events.data.microsoft.com
