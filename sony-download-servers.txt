@@ -1,0 +1,13 @@
+duk01.ps5.update.playstation.net
+fuk01.ps5.update.playstation.net
+dus01.ps5.update.playstation.net
+fus01.ps5.update.playstation.net
+feu01.ps5.update.playstation.net
+dau01.ps5.update.playstation.net
+fau01.ps5.update.playstation.net
+djp01.ps5.update.playstation.net
+fjp01.ps5.update.playstation.net
+fsa01.ps5.update.playstation.net
+dsa01.ps5.update.playstation.net
+sgst.prod.dl.playstation.net
+gs2.ww.prod.dl.playstation.net
