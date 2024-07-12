@@ -32,3 +32,11 @@ xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
+download.microsoft.com
+go.microsoft.com
+login.live.com
+xsts.auth.xboxlive.com
+dns.msftncsi.com
+ipv6.msftconnecttest.com
+www.msftconnecttest.com
+device.auth.xboxlive.com
