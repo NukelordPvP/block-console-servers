@@ -21,8 +21,6 @@ www.msftncsi.com
 www.xboxlive.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
-download.microsoft.com
-go.microsoft.com
 dns.msftncsi.com
 ipv6.msftconnecttest.com
 www.msftconnecttest.com
