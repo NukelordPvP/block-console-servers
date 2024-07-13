@@ -29,7 +29,6 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 download.microsoft.com
 go.microsoft.com
-login.live.com
 xsts.auth.xboxlive.com
 dns.msftncsi.com
 ipv6.msftconnecttest.com
