@@ -1,6 +1,5 @@
 v10.events.data.microsoft.com
 settings-win.data.microsoft.com
-watson.telemetry.microsoft.com
 ctdl.windowsupdate.com
 ctldl.windowsupdate.com
 clientfd.family.microsoft.com
@@ -16,11 +15,7 @@ www.msftncsi.com
 dns.msftncsi.com
 ipv6.msftconnecttest.com
 www.msftconnecttest.com
-catalog.gamepass.com
 slscr.update.microsoft.com
-xbox-guide-public.rec.mp.microsoft.com
-www.xboxab.com
 adbroker.mp.dse.microsoft.com
-assets.xboxservices.com
 browser.events.data.msn.com
 displaycatalog.mp.microsoft.com
