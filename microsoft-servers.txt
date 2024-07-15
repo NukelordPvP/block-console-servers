@@ -19,7 +19,6 @@ www.msftconnecttest.com
 catalog.gamepass.com
 slscr.update.microsoft.com
 xbox-guide-public.rec.mp.microsoft.com
-arc.msn.com
 www.xboxab.com
 adbroker.mp.dse.microsoft.com
 assets.xboxservices.com
