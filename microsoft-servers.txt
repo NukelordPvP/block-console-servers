@@ -33,3 +33,4 @@ adbroker.mp.dse.microsoft.com
 assets.xboxservices.com
 avatar3.xboxlive.com
 avty.xboxlive.com
+update.xboxlive.com
