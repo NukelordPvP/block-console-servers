@@ -1,10 +1,5 @@
-adproxy.ndmdhs.com
 mercury.dl.playstation.net
 nsx-e.np.dl.playstation.net
 nsx.np.dl.playstation.net
 telemetry-cii.api.playstation.com
 telemetry-console.api.playstation.com
-nw-umwatson.events.data.microsoft.com
-watson.events.data.microsoft.com
-rad.msn.com
-at.atwola.com
