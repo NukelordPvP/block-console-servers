@@ -1,13 +1,36 @@
-duk01.ps5.update.playstation.net # block uk
-fuk01.ps5.update.playstation.net # block uk
-dus01.ps5.update.playstation.net # block us
-fus01.ps5.update.playstation.net # block us
-feu01.ps5.update.playstation.net # block eu
-dau01.ps5.update.playstation.net # block au
-fau01.ps5.update.playstation.net # block au
-djp01.ps5.update.playstation.net # block jp
-fjp01.ps5.update.playstation.net # block jp
-fsa01.ps5.update.playstation.net # block sa
-dsa01.ps5.update.playstation.net # block sa
+# block uk
+duk01.ps5.update.playstation.net
+fuk01.ps5.update.playstation.net
+duk01.ps4.update.playstation.net
+fuk01.ps4.update.playstation.net
+
+# block us
+dus01.ps5.update.playstation.net
+fus01.ps5.update.playstation.net
+dus01.ps4.update.playstation.net
+fus01.ps4.update.playstation.net
+
+# block eu
+feu01.ps5.update.playstation.net
+feu01.ps4.update.playstation.net
+
+# block au
+dau01.ps5.update.playstation.net
+fau01.ps5.update.playstation.net
+dau01.ps4.update.playstation.net
+fau01.ps4.update.playstation.net
+
+# block jp
+djp01.ps5.update.playstation.net
+fjp01.ps5.update.playstation.net
+djp01.ps4.update.playstation.net
+fjp01.ps4.update.playstation.net
+
+# block sa
+fsa01.ps5.update.playstation.net
+dsa01.ps5.update.playstation.net
+fsa01.ps4.update.playstation.net
+dsa01.ps4.update.playstation.net
+
 sgst.prod.dl.playstation.net # block sgst unknown what it does
 gs2.ww.prod.dl.playstation.net # block gs2 unknown what it does
