@@ -1,36 +1,36 @@
 # block uk
-duk01.ps5.update.playstation.net
-fuk01.ps5.update.playstation.net
-duk01.ps4.update.playstation.net
-fuk01.ps4.update.playstation.net
+duk01.ps5.update.playstation.net # firmware updates
+fuk01.ps5.update.playstation.net # firmware updates
+duk01.ps4.update.playstation.net # firmware updates
+fuk01.ps4.update.playstation.net # firmware updates
 
 # block us
-dus01.ps5.update.playstation.net
-fus01.ps5.update.playstation.net
-dus01.ps4.update.playstation.net
-fus01.ps4.update.playstation.net
+dus01.ps5.update.playstation.net # firmware updates
+fus01.ps5.update.playstation.net # firmware updates
+dus01.ps4.update.playstation.net # firmware updates
+fus01.ps4.update.playstation.net # firmware updates
 
 # block eu
-feu01.ps5.update.playstation.net
-feu01.ps4.update.playstation.net
+feu01.ps5.update.playstation.net # firmware updates
+feu01.ps4.update.playstation.net # firmware updates
 
 # block au
-dau01.ps5.update.playstation.net
-fau01.ps5.update.playstation.net
-dau01.ps4.update.playstation.net
-fau01.ps4.update.playstation.net
+dau01.ps5.update.playstation.net # firmware updates
+fau01.ps5.update.playstation.net # firmware updates
+dau01.ps4.update.playstation.net # firmware updates
+fau01.ps4.update.playstation.net # firmware updates
 
 # block jp
-djp01.ps5.update.playstation.net
-fjp01.ps5.update.playstation.net
-djp01.ps4.update.playstation.net
-fjp01.ps4.update.playstation.net
+djp01.ps5.update.playstation.net # firmware updates
+fjp01.ps5.update.playstation.net # firmware updates
+djp01.ps4.update.playstation.net # firmware updates
+fjp01.ps4.update.playstation.net # firmware updates
 
 # block sa
-fsa01.ps5.update.playstation.net
-dsa01.ps5.update.playstation.net
-fsa01.ps4.update.playstation.net
-dsa01.ps4.update.playstation.net
+fsa01.ps5.update.playstation.net # firmware updates
+dsa01.ps5.update.playstation.net # firmware updates
+fsa01.ps4.update.playstation.net # firmware updates
+dsa01.ps4.update.playstation.net # firmware updates
 
 sgst.prod.dl.playstation.net # block sgst unknown what it does
 gs2.ww.prod.dl.playstation.net # playstation game updates
