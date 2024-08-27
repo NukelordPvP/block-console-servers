@@ -33,4 +33,4 @@ fsa01.ps4.update.playstation.net
 dsa01.ps4.update.playstation.net
 
 sgst.prod.dl.playstation.net # block sgst unknown what it does
-gs2.ww.prod.dl.playstation.net # block gs2 unknown what it does
+gs2.ww.prod.dl.playstation.net # playstation game updates
