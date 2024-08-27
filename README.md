@@ -6,7 +6,7 @@
 
 ### Put into Router
 - `microsoft-ad-servers.txt`  — Xbox ad servers
-- `microsoft-servers.txt`  — Let PiHole handle this
+- `microsoft-telemetry-servers`  — Telemetry
 - `more-xbox-servers`
 - `reallybad-xboxlive-servers.txt`  — Xbox firmware updates and licensing
 
