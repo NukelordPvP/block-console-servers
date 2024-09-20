@@ -1,3 +1,4 @@
 update.xboxlive.com # block console updates
 licensing.xboxlive.com # block xbox licensing
 licensing.mp.microsoft.com # block xbox licensing check
+xsts.auth.xboxlive.com
