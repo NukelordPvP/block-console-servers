@@ -1,0 +1,5 @@
+# Optional extras below (ad/tracking/telemetry):
+gpm.lge.com                   # General LG API/telemetry
+rdvs.alljoyn.org              # AllJoyn discovery (not needed)
+lgapps.com                    # LG app store services
+us.lgsmartad.com              # Smart TV ads

@@ -1,0 +1,39 @@
+# Block UK firmware updates
+duk01.ps5.update.playstation.net # UK firmware updates
+fuk01.ps5.update.playstation.net # UK firmware updates
+duk01.ps4.update.playstation.net # UK firmware updates
+fuk01.ps4.update.playstation.net # UK firmware updates
+
+# Block US firmware updates
+dus01.ps5.update.playstation.net # US firmware updates
+fus01.ps5.update.playstation.net # US firmware updates
+dus01.ps4.update.playstation.net # US firmware updates
+fus01.ps4.update.playstation.net # US firmware updates
+
+# Block EU firmware updates
+feu01.ps5.update.playstation.net # EU firmware updates
+feu01.ps4.update.playstation.net # EU firmware updates
+
+# Block AU firmware updates
+dau01.ps5.update.playstation.net # AU firmware updates
+fau01.ps5.update.playstation.net # AU firmware updates
+dau01.ps4.update.playstation.net # AU firmware updates
+fau01.ps4.update.playstation.net # AU firmware updates
+
+# Block JP firmware updates
+djp01.ps5.update.playstation.net # JP firmware updates
+fjp01.ps5.update.playstation.net # JP firmware updates
+djp01.ps4.update.playstation.net # JP firmware updates
+fjp01.ps4.update.playstation.net # JP firmware updates
+
+# Block SA firmware updates
+fsa01.ps5.update.playstation.net # SA firmware updates
+dsa01.ps5.update.playstation.net # SA firmware updates
+fsa01.ps4.update.playstation.net # SA firmware updates
+dsa01.ps4.update.playstation.net # SA firmware updates
+
+# Block unknown SGST PlayStation domain
+sgst.prod.dl.playstation.net # PlayStation game content delivery and updates
+
+# Block PlayStation game updates
+gs2.ww.prod.dl.playstation.net # PlayStation game content delivery and updates

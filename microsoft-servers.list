@@ -1,0 +1,20 @@
+# Block Microsoft servers (updates, services)
+v10.events.data.microsoft.com        # Telemetry/Events
+settings-win.data.microsoft.com       # Settings update
+ctdl.windowsupdate.com                # Windows Update
+ctldl.windowsupdate.com               # Windows Update
+clientfd.family.microsoft.com         # Family Safety
+activity.windows.com                  # Activity tracking
+client-s.gateway.messenger.live.com   # Messenger service
+clientconfig.passport.net             # Passport/Live services
+continuum.dds.microsoft.com           # Continuum service
+mobile.pipe.aria.microsoft.com        # Mobile sync
+v10.vortex-win.data.microsoft.com     # Telemetry/Events
+v20.events.data.microsoft.com         # Telemetry/Events
+v20.vortex-win.data.microsoft.com     # Telemetry/Events
+www.msftncsi.com                      # Network Connectivity Status Indicator
+dns.msftncsi.com                      # DNS check for internet connectivity
+ipv6.msftconnecttest.com              # IPv6 connectivity test
+www.msftconnecttest.com               # Connectivity test
+slscr.update.microsoft.com            # Software update
+displaycatalog.mp.microsoft.com       # Display catalog for ads/updates

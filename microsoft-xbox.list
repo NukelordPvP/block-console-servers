@@ -1,0 +1,9 @@
+# Block Xbox-related servers
+assets.xboxservices.com                     # Xbox services
+www.xboxab.com                              # Xbox AB (Advertising/Marketing)
+xbox-guide-public.rec.mp.microsoft.com      # Xbox guide updates
+catalog.gamepass.com                        # Xbox Game Pass catalog
+update.xboxlive.com                         # Block console updates
+licensing.xboxlive.com                      # Block Xbox licensing
+licensing.mp.microsoft.com                  # Block Xbox licensing check
+xsts.auth.xboxlive.com                       # Xbox authentication

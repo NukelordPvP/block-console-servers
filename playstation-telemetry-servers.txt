@@ -1,5 +1,0 @@
-mercury.dl.playstation.net
-nsx-e.np.dl.playstation.net
-nsx.np.dl.playstation.net
-telemetry-cii.api.playstation.com
-telemetry-console.api.playstation.com

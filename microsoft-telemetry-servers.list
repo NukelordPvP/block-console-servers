@@ -1,0 +1,7 @@
+# Block Microsoft telemetry and ad servers
+adproxy.ndmdhs.com           # Ads
+at.atwola.com                 # Ads
+arc.msn.com                   # Dashboard adserver
+nw-umwatson.events.data.microsoft.com  # Telemetry
+watson.events.data.microsoft.com      # Telemetry
+rad.msn.com                           # Ads

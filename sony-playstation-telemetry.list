@@ -1,0 +1,6 @@
+# PlayStation telemetry and tracking domains
+mercury.dl.playstation.net # PlayStation telemetry and game-related data
+nsx-e.np.dl.playstation.net # PlayStation telemetry and game-related data (North America)
+nsx.np.dl.playstation.net # PlayStation telemetry and game-related data (Global)
+telemetry-cii.api.playstation.com # PlayStation telemetry data (console)
+telemetry-console.api.playstation.com # PlayStation telemetry data (console)
