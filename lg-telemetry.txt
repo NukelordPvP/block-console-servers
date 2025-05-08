@@ -3,3 +3,5 @@ gpm.lge.com                   # General LG API/telemetry
 rdvs.alljoyn.org              # AllJoyn discovery (not needed)
 lgapps.com                    # LG app store services
 us.lgsmartad.com              # Smart TV ads
+aic.rdl.lgtvcommon.com        # AI logging or remote diagnostics
+aic.recommend.lgtvcommon.com # AI-based content recommendations
