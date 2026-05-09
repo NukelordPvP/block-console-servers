@@ -1,11 +1,7 @@
-# Block LG TV firmware and update-related domains to prevent automatic updates
-lgtv.care.cdms.lg.com         # LG firmware check
-lgtv.plg.lge.com              # LG TV communication services
-su.lge.com                    # Software updates
-update.lgappstv.com           # App/firmware updates
-fota.lge.com                  # Firmware Over-The-Air (FOTA) updates
-cdn.lgappstv.com              # Content delivery for apps/updates\
-lgtvonline.lge.com            # Core LG Smart TV online services
-us.lgtvsdp.com                # Smart Device Platform (U.S. region)
-snu.lge.com                   # Firmware updates or diagnostics
-ueiwsp.com                    # Remote control services by UEI
+# LG firmware / OTA update blocking
+lgtv.care.cdms.lg.com
+su.lge.com
+update.lgappstv.com
+fota.lge.com
+snu.lge.com
+ueiwsp.com
