@@ -1,11 +1,9 @@
-# Core LG app/content services
+# LG app store / app delivery / online services
 lgapps.com
-us.lgrecommends.lgappstv.com
 cdn.lgappstv.com
 lgtvonline.lge.com
 lgtv.plg.lge.com
 us.lgtvsdp.com
-
-# LG Content Store / app metadata
+us.lgrecommends.lgappstv.com
 us.ibs.lgappstv.com
 ngfts.lge.com
