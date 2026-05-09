@@ -1,1 +1,11 @@
-# Block LG TV apps install & update
+# Core LG app/content services
+lgapps.com
+us.lgrecommends.lgappstv.com
+cdn.lgappstv.com
+lgtvonline.lge.com
+lgtv.plg.lge.com
+us.lgtvsdp.com
+
+# LG Content Store / app metadata
+us.ibs.lgappstv.com
+ngfts.lge.com
