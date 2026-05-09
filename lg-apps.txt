@@ -7,3 +7,4 @@ us.lgtvsdp.com
 us.lgrecommends.lgappstv.com
 us.ibs.lgappstv.com
 ngfts.lge.com
+us.security.lgtvsdp.com
