@@ -1,7 +1,7 @@
 # LG ads / telemetry / recommendations / tracking
-gpm.lge.com
-rdvs.alljoyn.org
-us.lgsmartad.com
-aic.rdl.lgtvcommon.com
-aic.recommend.lgtvcommon.com
-*.alphonso.tv
+gpm.lge.com # LG global platform messaging / telemetry + device analytics
+rdvs.alljoyn.org # AllJoyn service discovery (legacy IoT/device discovery layer)
+us.lgsmartad.com # smart TV advertising delivery + ad targeting (US region)
+aic.rdl.lgtvcommon.com # AI content recognition / analytics logging service
+aic.recommend.lgtvcommon.com # content recommendation engine (watch history-based suggestions)
+*.alphonso.tv # TV viewing analytics / automatic content recognition (ACR) tracking system
