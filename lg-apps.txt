@@ -1,10 +1,10 @@
 # LG app store / app delivery / online services
-lgapps.com
-cdn.lgappstv.com
-lgtvonline.lge.com
-lgtv.plg.lge.com
-us.lgtvsdp.com
-us.lgrecommends.lgappstv.com
-us.ibs.lgappstv.com
-ngfts.lge.com
-us.security.lgtvsdp.com
+lgapps.com # LG app store main domain (apps catalog + metadata)
+cdn.lgappstv.com # app downloads + content delivery network
+lgtvonline.lge.com # online services gateway (account / store / auth routing)
+lgtv.plg.lge.com # platform services layer (store integration backend)
+us.lgtvsdp.com # US region SDP backend (apps + services routing)
+us.lgrecommends.lgappstv.com # recommendation engine (apps/content suggestions)
+us.ibs.lgappstv.com # install/billing/service backend for app store
+ngfts.lge.com # secure content/token service (DRM + app validation)
+us.security.lgtvsdp.com # security/auth layer for US LG services
