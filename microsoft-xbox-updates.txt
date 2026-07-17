@@ -1,3 +1,6 @@
-# Xbox updates
-update.xboxlive.com               # Xbox console system update service
-xbox-guide-public.rec.mp.microsoft.com # Xbox Guide configuration and content updates
+# =============================================================================
+# Xbox Updates
+# =============================================================================
+
+update.xboxlive.com                    # Xbox console system update service
+xbox-guide-public.rec.mp.microsoft.com # Xbox Guide configuration, content, and UI updates
