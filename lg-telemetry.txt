@@ -2,11 +2,18 @@
 # LG Ads / Telemetry / Recommendations / Tracking
 # =============================================================================
 
+# LG telemetry / analytics
 gpm.lge.com                  # LG global platform messaging, telemetry, firmware analytics
 rdvs.alljoyn.org             # AllJoyn device discovery service (legacy IoT discovery)
+
+# LG advertising
 us.lgsmartad.com             # LG Smart TV advertising and targeted ad delivery (US)
+
+# LG AI Content Recognition (ACR) / recommendations
 aic.rdl.lgtvcommon.com       # AI content recognition (ACR) and analytics logging
 aic.recommend.lgtvcommon.com # Personalized content recommendation engine (watch-history based)
-aic.cdpbeacon.lgtvcommon.com # Customer Data Platform (CDP) beacon used for telemetry, analytics, and ad personalization
-prov-lg.alphonso.tv          # Alphonso (LG partner) provisioning service for Automatic Content Recognition (ACR)
-*.alphonso.tv                # Alphonso TV viewing analytics and Automatic Content Recognition (ACR) tracking
+aic.cdpbeacon.lgtvcommon.com # Customer Data Platform (CDP) beacon for telemetry, analytics, and ad personalization
+
+# Alphonso Automatic Content Recognition (ACR)
+*.alphonso.tv                # Block all Alphonso ACR, analytics, and tracking services
+prov-lg.alphonso.tv          # Explicit LG provisioning endpoint (covered by wildcard if supported)
