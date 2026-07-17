@@ -6,7 +6,3 @@
 xsts.auth.xboxlive.com            # Xbox Secure Token Service (XSTS) authentication
 licensing.xboxlive.com            # Xbox license validation
 licensing.mp.microsoft.com        # Microsoft Store / Xbox license validation
-
-# Xbox content
-catalog.gamepass.com              # Xbox Game Pass catalog and metadata
-assets.xboxservices.com           # Xbox service assets and online content
