@@ -1,7 +1,13 @@
-# Block Microsoft telemetry and ad servers
-adproxy.ndmdhs.com           # Ads
-at.atwola.com                 # Ads
-arc.msn.com                   # Dashboard adserver
-nw-umwatson.events.data.microsoft.com  # Telemetry
-watson.events.data.microsoft.com      # Telemetry
-rad.msn.com                           # Ads
+# =============================================================================
+# Microsoft Advertising / Telemetry
+# =============================================================================
+
+# Microsoft advertising
+adproxy.ndmdhs.com                 # Advertising proxy service
+arc.msn.com                        # MSN advertising and dashboard content
+rad.msn.com                        # Microsoft advertising delivery
+at.atwola.com                      # Atwola advertising network (Microsoft-owned)
+
+# Microsoft telemetry
+watson.events.data.microsoft.com   # Windows Error Reporting (Watson) telemetry
+nw-umwatson.events.data.microsoft.com # Network telemetry for Windows Error Reporting (Watson)
