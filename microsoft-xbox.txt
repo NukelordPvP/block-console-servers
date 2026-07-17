@@ -10,6 +10,3 @@ licensing.mp.microsoft.com        # Microsoft Store / Xbox license validation
 # Xbox content
 catalog.gamepass.com              # Xbox Game Pass catalog and metadata
 assets.xboxservices.com           # Xbox service assets and online content
-
-# Xbox marketing
-www.xboxab.com                    # Xbox advertising and marketing services
