@@ -1,3 +1,6 @@
-# Game content delivery
-gs2.ww.prod.dl.playstation.net    # PlayStation game content delivery and updates
-sgst.prod.dl.playstation.net      # PlayStation game content delivery and updates
+# =============================================================================
+# PlayStation Content Delivery
+# =============================================================================
+
+gs2.ww.prod.dl.playstation.net    # PlayStation game content delivery, downloads, and updates
+sgst.prod.dl.playstation.net      # PlayStation game content delivery, downloads, and updates
