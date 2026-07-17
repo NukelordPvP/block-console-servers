@@ -1,1 +1,7 @@
+# =============================================================================
+# Microsoft Windows Update
+# =============================================================================
 
+ctdl.windowsupdate.com                # Windows Update content delivery
+ctldl.windowsupdate.com               # Windows Update content delivery
+slscr.update.microsoft.com            # Software licensing and Windows Update service
