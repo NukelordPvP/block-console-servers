@@ -15,5 +15,4 @@ aic.recommend.lgtvcommon.com # Personalized content recommendation engine (watch
 aic.cdpbeacon.lgtvcommon.com # Customer Data Platform (CDP) beacon for telemetry, analytics, and ad personalization
 
 # Alphonso Automatic Content Recognition (ACR)
-*.alphonso.tv                # Block all Alphonso ACR, analytics, and tracking services
-prov-lg.alphonso.tv          # Explicit LG provisioning endpoint (covered by wildcard if supported)
+prov-lg.alphonso.tv          # LG provisioning endpoint for Alphonso Automatic Content Recognition (ACR)
