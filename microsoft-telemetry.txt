@@ -5,9 +5,14 @@
 # Microsoft advertising
 adproxy.ndmdhs.com                 # Advertising proxy service
 arc.msn.com                        # MSN advertising and dashboard content
-rad.msn.com                        # Microsoft advertising delivery
+rad.msn.com                        # Microsoft advertising content delivery
 at.atwola.com                      # Atwola advertising network (Microsoft-owned)
 
-# Microsoft telemetry
+# Microsoft telemetry / diagnostics
+v10.events.data.microsoft.com      # Telemetry and diagnostic event collection
+v10.vortex-win.data.microsoft.com  # Telemetry and diagnostic data ingestion
+v20.events.data.microsoft.com      # Telemetry and diagnostic event collection
+v20.vortex-win.data.microsoft.com  # Telemetry and diagnostic data ingestion
+mobile.pipe.aria.microsoft.com     # Aria telemetry and event reporting
 watson.events.data.microsoft.com   # Windows Error Reporting (Watson) telemetry
-nw-umwatson.events.data.microsoft.com # Network telemetry for Windows Error Reporting (Watson)
+nw-umwatson.events.data.microsoft.com # Windows Error Reporting (Watson) network telemetry
