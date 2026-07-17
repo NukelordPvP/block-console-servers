@@ -1,17 +1,12 @@
 # =============================================================================
-# LG Firmware / OTA Updates
+# LG Device Management
 # =============================================================================
 
-# Firmware / OTA updates
-su.lge.com                 # Software update service (firmware checks and update metadata)
-fota.lge.com               # Firmware Over-the-Air (OTA) update server
+lgtv.care.cdms.lg.com      # Device Care, diagnostics, and device management services
+snu.lge.com                # Service provisioning and backend services
 
-# Device management
-lgtv.care.cdms.lg.com      # Device Care, diagnostics, and update eligibility service
-snu.lge.com                # Service provisioning and backend authentication
+# =============================================================================
+# LG webOS Platform
+# =============================================================================
 
-# webOS platform services
-ueiwsp.com                 # webOS service platform APIs and runtime backend
-
-# LG Content Store updates
-update.lgappstv.com        # LG Content Store application and app update service
+ueiwsp.com                 # webOS platform APIs and backend services
