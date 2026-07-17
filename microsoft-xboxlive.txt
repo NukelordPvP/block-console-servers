@@ -1,14 +1,19 @@
 # =============================================================================
+# Xbox Game Pass
+# =============================================================================
+
+catalog.gamepass.com        # Game Pass catalog and metadata
+
+# =============================================================================
+# Xbox Shared Content / Assets
+# =============================================================================
+
+assets.xboxservices.com     # Shared Xbox service assets (game art, icons, metadata, UI content)
+
+# =============================================================================
 # Xbox Live Services
 # =============================================================================
 
-# Xbox authentication / licensing
-xsts.auth.xboxlive.com      # Xbox Secure Token Service (XSTS) authentication
-licensing.xboxlive.com      # Xbox digital license validation
-
-# Xbox updates
-update.xboxlive.com         # Xbox console system update service
-
-# Xbox content
-catalog.gamepass.com              # Xbox Game Pass catalog and metadata
-assets.xboxservices.com           # Xbox service assets and online content
+xsts.auth.xboxlive.com      # Xbox Secure Token Service (authentication)
+licensing.xboxlive.com      # Digital license validation
+update.xboxlive.com         # Console system updates
