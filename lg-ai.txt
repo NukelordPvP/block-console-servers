@@ -1,0 +1,11 @@
+# =============================================================================
+# LG AI / Automatic Content Recognition (ACR)
+# =============================================================================
+
+# LG Automatic Content Recognition (ACR)
+aic.rdl.lgtvcommon.com       # Automatic Content Recognition (ACR), viewing analytics, and content identification
+aic.recommend.lgtvcommon.com # AI-powered personalized content recommendations
+aic.cdpbeacon.lgtvcommon.com # Customer Data Platform (CDP) beacon for AI analytics and ad personalization
+
+# Alphonso Automatic Content Recognition (ACR)
+prov-lg.alphonso.tv          # Alphonso ACR provisioning and TV registration service
