@@ -1,26 +1,19 @@
 # =============================================================================
-# Microsoft Telemetry / Online Services
+# Microsoft Online Services
 # =============================================================================
 
-# Telemetry / diagnostics
-v10.events.data.microsoft.com         # Telemetry and diagnostic event collection
-v10.vortex-win.data.microsoft.com     # Telemetry and diagnostic data ingestion
-v20.events.data.microsoft.com         # Telemetry and diagnostic event collection
-v20.vortex-win.data.microsoft.com     # Telemetry and diagnostic data ingestion
-mobile.pipe.aria.microsoft.com        # Aria telemetry and mobile event reporting
-
 # Windows connectivity tests (NCSI)
-www.msftncsi.com                      # Network Connectivity Status Indicator (NCSI)
-dns.msftncsi.com                      # DNS connectivity check
-www.msftconnecttest.com               # Internet connectivity test
-ipv6.msftconnecttest.com              # IPv6 internet connectivity test
+www.msftncsi.com                   # Network Connectivity Status Indicator (NCSI)
+dns.msftncsi.com                   # DNS connectivity check
+www.msftconnecttest.com            # Internet connectivity test
+ipv6.msftconnecttest.com           # IPv6 internet connectivity test
 
 # Microsoft account / consumer services
-clientconfig.passport.net             # Microsoft account (Passport/Live) configuration
-client-s.gateway.messenger.live.com   # Microsoft Messenger / Live gateway
-clientfd.family.microsoft.com         # Microsoft Family Safety services
-activity.windows.com                  # Activity history and cross-device timeline
+clientconfig.passport.net          # Microsoft account (Passport/Live) configuration
+client-s.gateway.messenger.live.com # Microsoft Messenger / Live gateway
+clientfd.family.microsoft.com      # Microsoft Family Safety services
+activity.windows.com               # Activity history and cross-device timeline
 
 # Windows cloud services
-settings-win.data.microsoft.com       # Windows settings synchronization and cloud configuration
-continuum.dds.microsoft.com           # Continuum and device experience services
+settings-win.data.microsoft.com    # Windows settings synchronization and cloud configuration
+continuum.dds.microsoft.com        # Continuum and device experience services
