@@ -1,34 +1,71 @@
-# **Blocklist Setup for Xbox & PlayStation Servers**
+# Xbox & PlayStation Blocklists
 
-This repository provides various blocklists designed to block telemetry, ads, firmware updates, licensing checks, and other unwanted server connections for Xbox and PlayStation. These blocklists help improve privacy, reduce network clutter, and prevent unwanted updates.
+A collection of DNS blocklists for Xbox and PlayStation consoles. These lists are intended to improve privacy, reduce telemetry and advertising, and optionally block firmware updates, licensing, and other online services.
 
-### **Blocklist Descriptions:**
-
-#### **1. Xbox Blocklists:**
-These blocklists target Xbox-related servers, including those for ads, telemetry, and firmware updates.
-
-- **microsoft-ad-servers.txt**: Block Xbox ad servers to stop advertisement traffic and tracking.
-- **microsoft-telemetry-servers.txt**: Block telemetry servers used by Xbox to send data back to Microsoft for analytics and diagnostics.
-- **more-xbox-servers.txt**: Additional Xbox-related servers that may not be covered by the above lists.
-- **reallybad-xboxlive-servers.txt**: Block Xbox firmware updates and licensing servers to prevent automatic console updates and licensing checks.
-
-#### **2. PlayStation Blocklists:**
-These blocklists target PlayStation-related servers, including telemetry and other unwanted connections.
-
-- **playstation-telemetry-servers.txt**: Block PlayStation telemetry servers that send usage data and diagnostic information to Sony.
-- **sony-servers.txt**: Contains general PlayStation servers, such as those for authentication and service access. It's recommended to only block region-specific servers to avoid interfering with necessary services (e.g., store access, game downloads).
+These blocklists are compatible with DNS-based blockers such as **Pi-hole**, **AdGuard Home**, **Technitium DNS**, **NextDNS**, and other DNS filtering solutions.
 
 ---
 
-### **Usage Information:**
+# Blocklists
 
-1. **Xbox-related Blocklists**: These lists aim to block unwanted Xbox server connections, including those used for telemetry, ads, and system updates.
-   
-2. **PlayStation-related Blocklists**: These lists aim to block unwanted telemetry, ads, and unnecessary PlayStation servers, improving your privacy and preventing unwanted data sharing.
+## Xbox
+
+### microsoft-ad-servers.txt
+Blocks Microsoft advertising and marketing domains used by Xbox.
+
+### microsoft-telemetry-servers.txt
+Blocks Microsoft telemetry, diagnostics, and analytics servers.
+
+### more-xbox-servers.txt
+Additional Xbox and Microsoft service domains that are not included in the other lists.
+
+### reallybad-xboxlive-servers.txt
+Blocks critical Xbox Live services, including firmware updates, licensing, authentication, and other online functionality.
+
+> **Warning:** This list can significantly impact Xbox Live functionality and is intended for users who understand the consequences.
 
 ---
 
-### **Pi-hole Recommended for Global Blocking:**
-- If your router doesn't support global blocking (blocking across all devices in your network), it's recommended to use **Pi-hole**. Pi-hole acts as a local DNS sinkhole that can block unwanted domains at the network level, effectively preventing your devices from reaching blocked servers, including Xbox and PlayStation servers listed here.
-  
-- Pi-hole allows you to add these lists to block unwanted connections on all devices connected to your network, even if your router doesn’t have the capability to globally block domains.
+## PlayStation
+
+### playstation-telemetry-servers.txt
+Blocks PlayStation telemetry, diagnostics, analytics, and data collection endpoints.
+
+### sony-servers.txt
+Contains PlayStation service domains, including firmware update servers and other Sony online services.
+
+> **Note:** It is generally recommended to block only the servers relevant to your console's region to avoid disrupting services such as the PlayStation Store, game downloads, or online authentication.
+
+---
+
+# Recommended Setup
+
+For network-wide blocking, use a DNS filtering solution such as **Pi-hole**.
+
+Pi-hole allows these blocklists to be applied to every device on your network without configuring each console individually.
+
+Other compatible DNS blockers include:
+
+- AdGuard Home
+- Technitium DNS Server
+- NextDNS
+- Control D
+- dnsmasq-based DNS servers
+
+---
+
+# Disclaimer
+
+Blocking Microsoft or Sony domains may disable or interfere with:
+
+- Firmware and system updates
+- Game updates
+- Xbox Live or PlayStation Network services
+- Licensing verification
+- Cloud saves
+- Digital purchases
+- Online multiplayer
+- Console activation
+- Store functionality
+
+Use these blocklists at your own risk.
