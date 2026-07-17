@@ -7,10 +7,6 @@ xsts.auth.xboxlive.com            # Xbox Secure Token Service (XSTS) authenticat
 licensing.xboxlive.com            # Xbox license validation
 licensing.mp.microsoft.com        # Microsoft Store / Xbox license validation
 
-# Xbox updates
-update.xboxlive.com               # Xbox console system update service
-xbox-guide-public.rec.mp.microsoft.com # Xbox Guide configuration and content updates
-
 # Xbox content
 catalog.gamepass.com              # Xbox Game Pass catalog and metadata
 assets.xboxservices.com           # Xbox service assets and online content
