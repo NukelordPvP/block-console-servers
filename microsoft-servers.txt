@@ -1,20 +1,34 @@
-# Block Microsoft servers (updates, services)
-v10.events.data.microsoft.com        # Telemetry/Events
-settings-win.data.microsoft.com       # Settings update
-ctdl.windowsupdate.com                # Windows Update
-ctldl.windowsupdate.com               # Windows Update
-clientfd.family.microsoft.com         # Family Safety
-activity.windows.com                  # Activity tracking
-client-s.gateway.messenger.live.com   # Messenger service
-clientconfig.passport.net             # Passport/Live services
-continuum.dds.microsoft.com           # Continuum service
-mobile.pipe.aria.microsoft.com        # Mobile sync
-v10.vortex-win.data.microsoft.com     # Telemetry/Events
-v20.events.data.microsoft.com         # Telemetry/Events
-v20.vortex-win.data.microsoft.com     # Telemetry/Events
-www.msftncsi.com                      # Network Connectivity Status Indicator
-dns.msftncsi.com                      # DNS check for internet connectivity
-ipv6.msftconnecttest.com              # IPv6 connectivity test
-www.msftconnecttest.com               # Connectivity test
-slscr.update.microsoft.com            # Software update
-displaycatalog.mp.microsoft.com       # Display catalog for ads/updates
+# =============================================================================
+# Microsoft Telemetry / Windows Update / Online Services
+# =============================================================================
+
+# Telemetry / diagnostics
+v10.events.data.microsoft.com         # Telemetry and diagnostic event collection
+v10.vortex-win.data.microsoft.com     # Telemetry and diagnostic data ingestion
+v20.events.data.microsoft.com         # Telemetry and diagnostic event collection
+v20.vortex-win.data.microsoft.com     # Telemetry and diagnostic data ingestion
+mobile.pipe.aria.microsoft.com        # Aria telemetry and mobile event reporting
+
+# Windows Update
+ctdl.windowsupdate.com                # Windows Update content delivery
+ctldl.windowsupdate.com               # Windows Update content delivery
+slscr.update.microsoft.com            # Software licensing and update service
+
+# Windows connectivity tests (NCSI)
+www.msftncsi.com                      # Network Connectivity Status Indicator (NCSI)
+dns.msftncsi.com                      # DNS connectivity check
+www.msftconnecttest.com               # Internet connectivity test
+ipv6.msftconnecttest.com              # IPv6 internet connectivity test
+
+# Microsoft account / consumer services
+clientconfig.passport.net             # Microsoft account (Passport/Live) configuration
+client-s.gateway.messenger.live.com   # Microsoft Messenger / Live gateway
+clientfd.family.microsoft.com         # Microsoft Family Safety services
+activity.windows.com                  # Activity history and cross-device timeline
+
+# Windows cloud services
+settings-win.data.microsoft.com       # Windows settings synchronization and cloud configuration
+continuum.dds.microsoft.com           # Continuum and device experience services
+
+# Microsoft Store / catalog
+displaycatalog.mp.microsoft.com       # Microsoft Store display catalog and metadata
