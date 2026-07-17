@@ -1,5 +1,5 @@
 # =============================================================================
-# Microsoft Telemetry / Windows Update / Online Services
+# Microsoft Telemetry / Online Services
 # =============================================================================
 
 # Telemetry / diagnostics
@@ -8,11 +8,6 @@ v10.vortex-win.data.microsoft.com     # Telemetry and diagnostic data ingestion
 v20.events.data.microsoft.com         # Telemetry and diagnostic event collection
 v20.vortex-win.data.microsoft.com     # Telemetry and diagnostic data ingestion
 mobile.pipe.aria.microsoft.com        # Aria telemetry and mobile event reporting
-
-# Windows Update
-ctdl.windowsupdate.com                # Windows Update content delivery
-ctldl.windowsupdate.com               # Windows Update content delivery
-slscr.update.microsoft.com            # Software licensing and update service
 
 # Windows connectivity tests (NCSI)
 www.msftncsi.com                      # Network Connectivity Status Indicator (NCSI)
