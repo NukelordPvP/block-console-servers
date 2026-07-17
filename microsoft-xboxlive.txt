@@ -8,3 +8,7 @@ licensing.xboxlive.com      # Xbox digital license validation
 
 # Xbox updates
 update.xboxlive.com         # Xbox console system update service
+
+# Xbox content
+catalog.gamepass.com              # Xbox Game Pass catalog and metadata
+assets.xboxservices.com           # Xbox service assets and online content
