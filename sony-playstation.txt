@@ -1,39 +1,139 @@
-# Block UK firmware updates
-duk01.ps5.update.playstation.net # UK firmware updates
-fuk01.ps5.update.playstation.net # UK firmware updates
-duk01.ps4.update.playstation.net # UK firmware updates
-fuk01.ps4.update.playstation.net # UK firmware updates
+# =============================================================================
+# PlayStation Firmware / Game Updates
+# =============================================================================
 
-# Block US firmware updates
-dus01.ps5.update.playstation.net # US firmware updates
-fus01.ps5.update.playstation.net # US firmware updates
-dus01.ps4.update.playstation.net # US firmware updates
-fus01.ps4.update.playstation.net # US firmware updates
+# Firmware updates (Australia)
+dau01.ps3.update.playstation.net
+dau01.ps4.update.playstation.net
+dau01.ps5.update.playstation.net
+fau01.ps3.update.playstation.net
+fau01.ps4.update.playstation.net
+fau01.ps5.update.playstation.net
+hau01.ps3.update.playstation.net
+hau01.ps4.update.playstation.net
+hau01.ps5.update.playstation.net
 
-# Block EU firmware updates
-feu01.ps5.update.playstation.net # EU firmware updates
-feu01.ps4.update.playstation.net # EU firmware updates
+# Firmware updates (Brazil)
+dbr01.ps3.update.playstation.net
+dbr01.ps4.update.playstation.net
+dbr01.ps5.update.playstation.net
+fbr01.ps3.update.playstation.net
+fbr01.ps4.update.playstation.net
+fbr01.ps5.update.playstation.net
+hbr01.ps3.update.playstation.net
+hbr01.ps4.update.playstation.net
+hbr01.ps5.update.playstation.net
 
-# Block AU firmware updates
-dau01.ps5.update.playstation.net # AU firmware updates
-fau01.ps5.update.playstation.net # AU firmware updates
-dau01.ps4.update.playstation.net # AU firmware updates
-fau01.ps4.update.playstation.net # AU firmware updates
+# Firmware updates (China)
+dcn01.ps3.update.playstation.net
+dcn01.ps4.update.playstation.net
+dcn01.ps5.update.playstation.net
+fcn01.ps3.update.playstation.net
+fcn01.ps4.update.playstation.net
+fcn01.ps5.update.playstation.net
+hcn01.ps3.update.playstation.net
+hcn01.ps4.update.playstation.net
+hcn01.ps5.update.playstation.net
 
-# Block JP firmware updates
-djp01.ps5.update.playstation.net # JP firmware updates
-fjp01.ps5.update.playstation.net # JP firmware updates
-djp01.ps4.update.playstation.net # JP firmware updates
-fjp01.ps4.update.playstation.net # JP firmware updates
+# Firmware updates (Europe)
+deu01.ps3.update.playstation.net
+deu01.ps4.update.playstation.net
+deu01.ps5.update.playstation.net
+feu01.ps3.update.playstation.net
+feu01.ps4.update.playstation.net
+feu01.ps5.update.playstation.net
+heu01.ps3.update.playstation.net
+heu01.ps4.update.playstation.net
+heu01.ps5.update.playstation.net
 
-# Block SA firmware updates
-fsa01.ps5.update.playstation.net # SA firmware updates
-dsa01.ps5.update.playstation.net # SA firmware updates
-fsa01.ps4.update.playstation.net # SA firmware updates
-dsa01.ps4.update.playstation.net # SA firmware updates
+# Firmware updates (Japan)
+djp01.ps3.update.playstation.net
+djp01.ps4.update.playstation.net
+djp01.ps5.update.playstation.net
+fjp01.ps3.update.playstation.net
+fjp01.ps4.update.playstation.net
+fjp01.ps5.update.playstation.net
+hjp01.ps3.update.playstation.net
+hjp01.ps4.update.playstation.net
+hjp01.ps5.update.playstation.net
 
-# Block unknown SGST PlayStation domain
-sgst.prod.dl.playstation.net # PlayStation game content delivery and updates
+# Firmware updates (South Korea)
+dkr01.ps3.update.playstation.net
+dkr01.ps4.update.playstation.net
+dkr01.ps5.update.playstation.net
+fkr01.ps3.update.playstation.net
+fkr01.ps4.update.playstation.net
+fkr01.ps5.update.playstation.net
+hkr01.ps3.update.playstation.net
+hkr01.ps4.update.playstation.net
+hkr01.ps5.update.playstation.net
 
-# Block PlayStation game updates
-gs2.ww.prod.dl.playstation.net # PlayStation game content delivery and updates
+# Firmware updates (Mexico)
+dmx01.ps3.update.playstation.net
+dmx01.ps4.update.playstation.net
+dmx01.ps5.update.playstation.net
+fmx01.ps3.update.playstation.net
+fmx01.ps4.update.playstation.net
+fmx01.ps5.update.playstation.net
+hmx01.ps3.update.playstation.net
+hmx01.ps4.update.playstation.net
+hmx01.ps5.update.playstation.net
+
+# Firmware updates (Russia)
+dru01.ps3.update.playstation.net
+dru01.ps4.update.playstation.net
+dru01.ps5.update.playstation.net
+fru01.ps3.update.playstation.net
+fru01.ps4.update.playstation.net
+fru01.ps5.update.playstation.net
+hru01.ps3.update.playstation.net
+hru01.ps4.update.playstation.net
+hru01.ps5.update.playstation.net
+
+# Firmware updates (South America)
+dsa01.ps3.update.playstation.net
+dsa01.ps4.update.playstation.net
+dsa01.ps5.update.playstation.net
+fsa01.ps3.update.playstation.net
+fsa01.ps4.update.playstation.net
+fsa01.ps5.update.playstation.net
+hsa01.ps3.update.playstation.net
+hsa01.ps4.update.playstation.net
+hsa01.ps5.update.playstation.net
+
+# Firmware updates (Taiwan)
+dtw01.ps3.update.playstation.net
+dtw01.ps4.update.playstation.net
+dtw01.ps5.update.playstation.net
+ftw01.ps3.update.playstation.net
+ftw01.ps4.update.playstation.net
+ftw01.ps5.update.playstation.net
+htw01.ps3.update.playstation.net
+htw01.ps4.update.playstation.net
+htw01.ps5.update.playstation.net
+
+# Firmware updates (United Kingdom)
+duk01.ps3.update.playstation.net
+duk01.ps4.update.playstation.net
+duk01.ps5.update.playstation.net
+fuk01.ps3.update.playstation.net
+fuk01.ps4.update.playstation.net
+fuk01.ps5.update.playstation.net
+huk01.ps3.update.playstation.net
+huk01.ps4.update.playstation.net
+huk01.ps5.update.playstation.net
+
+# Firmware updates (United States)
+dus01.ps3.update.playstation.net
+dus01.ps4.update.playstation.net
+dus01.ps5.update.playstation.net
+fus01.ps3.update.playstation.net
+fus01.ps4.update.playstation.net
+fus01.ps5.update.playstation.net
+hus01.ps3.update.playstation.net
+hus01.ps4.update.playstation.net
+hus01.ps5.update.playstation.net
+
+# Game content delivery
+gs2.ww.prod.dl.playstation.net    # PlayStation game content delivery and updates
+sgst.prod.dl.playstation.net      # PlayStation game content delivery and updates
