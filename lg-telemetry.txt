@@ -1,5 +1,5 @@
 # =============================================================================
-# LG Advertising / Telemetry / Recommendations / Tracking
+# LG Advertising / Telemetry
 # =============================================================================
 
 # LG telemetry / analytics
@@ -8,11 +8,3 @@ rdvs.alljoyn.org             # Legacy AllJoyn device discovery service
 
 # LG advertising
 us.lgsmartad.com             # Smart TV advertising platform and targeted ad delivery
-
-# LG AI Content Recognition (ACR) / recommendations
-aic.rdl.lgtvcommon.com       # Automatic Content Recognition (ACR), viewing analytics, and content identification
-aic.recommend.lgtvcommon.com # Personalized content recommendations based on viewing activity
-aic.cdpbeacon.lgtvcommon.com # Customer Data Platform (CDP) telemetry, analytics, and advertising beacon
-
-# Alphonso Automatic Content Recognition (ACR)
-prov-lg.alphonso.tv          # Alphonso ACR provisioning and TV registration service
