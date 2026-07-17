@@ -5,4 +5,5 @@ us.lgsmartad.com # smart TV advertising delivery + ad targeting (US region)
 aic.rdl.lgtvcommon.com # AI content recognition / analytics logging service
 aic.recommend.lgtvcommon.com # content recommendation engine (watch history-based suggestions)
 aic.cdpbeacon.lgtvcommon.com
+prov-lg.alphonso.tv
 *.alphonso.tv # TV viewing analytics / automatic content recognition (ACR) tracking system
