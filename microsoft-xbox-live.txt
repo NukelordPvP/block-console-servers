@@ -4,4 +4,3 @@
 
 xsts.auth.xboxlive.com      # Xbox Secure Token Service (authentication)
 licensing.xboxlive.com      # Digital license validation
-update.xboxlive.com         # Console system updates
