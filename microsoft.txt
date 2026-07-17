@@ -29,6 +29,3 @@ activity.windows.com                  # Activity history and cross-device timeli
 # Windows cloud services
 settings-win.data.microsoft.com       # Windows settings synchronization and cloud configuration
 continuum.dds.microsoft.com           # Continuum and device experience services
-
-# Microsoft Store / catalog
-displaycatalog.mp.microsoft.com       # Microsoft Store display catalog and metadata
