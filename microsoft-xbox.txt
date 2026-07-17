@@ -1,9 +1,19 @@
-# Block Xbox-related servers
-assets.xboxservices.com                     # Xbox services
-www.xboxab.com                              # Xbox AB (Advertising/Marketing)
-xbox-guide-public.rec.mp.microsoft.com      # Xbox guide updates
-catalog.gamepass.com                        # Xbox Game Pass catalog
-update.xboxlive.com                         # Block console updates
-licensing.xboxlive.com                      # Block Xbox licensing
-licensing.mp.microsoft.com                  # Block Xbox licensing check
-xsts.auth.xboxlive.com                       # Xbox authentication
+# =============================================================================
+# Xbox Services
+# =============================================================================
+
+# Xbox authentication / licensing
+xsts.auth.xboxlive.com            # Xbox Secure Token Service (XSTS) authentication
+licensing.xboxlive.com            # Xbox license validation
+licensing.mp.microsoft.com        # Microsoft Store / Xbox license validation
+
+# Xbox updates
+update.xboxlive.com               # Xbox console system update service
+xbox-guide-public.rec.mp.microsoft.com # Xbox Guide configuration and content updates
+
+# Xbox content
+catalog.gamepass.com              # Xbox Game Pass catalog and metadata
+assets.xboxservices.com           # Xbox service assets and online content
+
+# Xbox marketing
+www.xboxab.com                    # Xbox advertising and marketing services
