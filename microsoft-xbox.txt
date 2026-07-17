@@ -2,13 +2,12 @@
 # Xbox Shared Content / Assets
 # =============================================================================
 
-assets.xboxservices.com     # Shared Xbox service assets (game art, icons, metadata, UI content)
+assets.xboxservices.com           # Xbox service assets (game art, icons, metadata, and UI resources)
 
 # =============================================================================
-# Xbox Services
+# Xbox Authentication / Licensing
 # =============================================================================
 
-# Xbox authentication / licensing
 xsts.auth.xboxlive.com            # Xbox Secure Token Service (XSTS) authentication
-licensing.xboxlive.com            # Xbox license validation
-licensing.mp.microsoft.com        # Microsoft Store / Xbox license validation
+licensing.xboxlive.com            # Xbox digital license validation
+licensing.mp.microsoft.com        # Microsoft Store and Xbox digital license validation
