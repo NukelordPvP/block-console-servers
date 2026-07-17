@@ -1,4 +1,6 @@
-# LG ads / telemetry / recommendations / tracking
+# =============================================================================
+# LG Ads / Telemetry / Recommendations / Tracking
+# =============================================================================
 
 gpm.lge.com                  # LG global platform messaging, telemetry, firmware analytics
 rdvs.alljoyn.org             # AllJoyn device discovery service (legacy IoT discovery)
