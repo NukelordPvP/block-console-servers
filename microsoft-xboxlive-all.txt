@@ -1,1 +1,10 @@
-(\.|^)xboxlive\.com$ # block all of xboxlive
+# =============================================================================
+# Xbox Live Services
+# =============================================================================
+
+# Xbox authentication / licensing
+xsts.auth.xboxlive.com      # Xbox Secure Token Service (XSTS) authentication
+licensing.xboxlive.com      # Xbox digital license validation
+
+# Xbox updates
+update.xboxlive.com         # Xbox console system update service
