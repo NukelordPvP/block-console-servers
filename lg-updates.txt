@@ -1,1 +1,12 @@
+# =============================================================================
+# LG Firmware / OTA Updates
+# =============================================================================
 
+su.lge.com                 # Firmware/software update checks and update metadata
+fota.lge.com               # Firmware Over-the-Air (OTA) update server
+
+# =============================================================================
+# LG Content Store Updates
+# =============================================================================
+
+update.lgappstv.com        # LG Content Store application and app updates
