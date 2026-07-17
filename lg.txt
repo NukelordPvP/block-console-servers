@@ -1,7 +1,17 @@
-# LG firmware / OTA update blocking
-lgtv.care.cdms.lg.com # device care / diagnostics / update eligibility
-su.lge.com # software update service (checks + metadata)
-update.lgappstv.com # LG Content Store app updates
-fota.lge.com # firmware OTA (system OS updates)
-snu.lge.com # LG service provisioning / backend auth layer
-ueiwsp.com # webOS service platform APIs / runtime backend
+# =============================================================================
+# LG Firmware / OTA Updates
+# =============================================================================
+
+# Firmware / OTA updates
+su.lge.com                 # Software update service (firmware checks and update metadata)
+fota.lge.com               # Firmware Over-the-Air (OTA) update server
+
+# Device management
+lgtv.care.cdms.lg.com      # Device Care, diagnostics, and update eligibility service
+snu.lge.com                # Service provisioning and backend authentication
+
+# webOS platform services
+ueiwsp.com                 # webOS service platform APIs and runtime backend
+
+# LG Content Store updates
+update.lgappstv.com        # LG Content Store application and app update service
