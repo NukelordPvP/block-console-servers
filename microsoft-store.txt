@@ -1,1 +1,6 @@
+# =============================================================================
+# Microsoft Store
+# =============================================================================
 
+displaycatalog.mp.microsoft.com       # Microsoft Store catalog, product metadata, and listings
+licensing.mp.microsoft.com            # Microsoft Store digital license validation
